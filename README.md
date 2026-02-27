@@ -11,20 +11,23 @@ The objective is to simulate a real-world banking environment and extract meanin
 
 The project integrates SQL, Python, and Power BI, with custom dashboard UI design created in Figma.
 
-## 📈 Dashboard Preview
+## 📈 Dashboard 
+👉 [View Dashboard](./dashboard)
 
 <img width="1318" height="750" alt="loan-analysis-ss" src="https://github.com/user-attachments/assets/993ee437-63bb-466e-b83c-cdc9bf32229b" />
 <img width="1314" height="732" alt="deposit-analysis" src="https://github.com/user-attachments/assets/8f6fdb7c-53c9-4fc4-a9db-f7c98b4329fc" />
 <img width="1319" height="729" alt="clients-ss" src="https://github.com/user-attachments/assets/9f917c20-d72a-45a2-8805-2289d7f19bac" />
-👉 [View Dashboard](./dashboard)
+
+
 
 
 ## 🗄️ Dataset Description
+👉 [View Datasets](./datasets)
 ```
 Format        : CSV  
 Domain        : Banking
 ```
-👉 [View Datasets](./datasets)
+
 
 ## 🏗️ Architecture & Workflow
 ```
